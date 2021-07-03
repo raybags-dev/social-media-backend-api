@@ -4,10 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
-    "git": "nodemon git.js"
+    "start": "node index.js"
   },
-  "keywords": [],
+  "engines": {
+    "node": "v16.2.0"
+  },
+  "keywords": [
+    "social media api",
+    "api social media"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
