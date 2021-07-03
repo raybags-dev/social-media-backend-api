@@ -27,7 +27,6 @@ app.use(morgan("common"));
 app.use("/api/users", userRoute);
 // auth router
 app.use("/api/auth", authRoute);
-
 // posts router
 app.use("/api/posts", postRouter);
 
