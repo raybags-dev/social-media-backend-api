@@ -26,6 +26,6 @@
     "mongoose": "^5.12.14",
     "morgan": "^1.10.0",
     "shelljs": "^0.8.4",
-    "simple-git": "^2.40.0"
+    "simple-git": "^3.3.0"
   }
 }
